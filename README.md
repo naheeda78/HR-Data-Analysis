@@ -3,11 +3,11 @@
 ## Project Overview:
 
 Employee management is a critical function of any organization, and HR analytics plays a key role in optimizing workforce strategies. By leveraging data, companies can:
-✅ Identify high-risk departments prone to attrition
-✅ Analyze the relationship between job satisfaction, performance, and retention
-✅ Assess income disparities among job roles
-✅ Evaluate the impact of education levels on workforce composition
-✅ Improve HR policies based on data-backed trends
+- Identify high-risk departments prone to attrition
+- Analyze the relationship between job satisfaction, performance, and retention
+- Assess income disparities among job roles
+- Evaluate the impact of education levels on workforce composition
+- Improve HR policies based on data-backed trends
 
 📊 Key Insights from the Dashboard:
 
