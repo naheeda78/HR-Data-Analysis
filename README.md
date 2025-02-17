@@ -22,23 +22,23 @@ Employee management is a critical function of any organization, and HR analytics
 ### R&D department has the highest number of active employees, but also a significant attrition count.
 ### Sales and HR departments show a relatively high attrition trend, indicating potential job dissatisfaction.
 
-🔹 Education & Job Satisfaction Trends
-✔ Education Breakdown: The majority of employees hold a Bachelor’s Degree (473), followed by Master’s Degree (340) and Associate’s Degree (238).
-✔ Job Satisfaction Levels: Sales Executives and Research Scientists exhibit varying levels of job satisfaction, indicating the need for engagement strategies to improve retention.
+### Education & Job Satisfaction Trends
+- Education Breakdown: The majority of employees hold a Bachelor’s Degree (473), followed by Master’s Degree (340) and Associate’s Degree (238).
+- Job Satisfaction Levels: Sales Executives and Research Scientists exhibit varying levels of job satisfaction, indicating the need for engagement strategies to improve retention.
 
-🔹 Compensation & Performance Analysis
-✔ Income Trends: Managers have the highest average monthly income, while Sales Representatives have the lowest.
-✔ Performance Ratings: R&D leads in high-performance scores, followed by Sales and HR.
+### Compensation & Performance Analysis
+- Income Trends: Managers have the highest average monthly income, while Sales Representatives have the lowest.
+- Performance Ratings: R&D leads in high-performance scores, followed by Sales and HR.
 
-📌 How This Dashboard Helps HR Teams:
-✅ Early Identification of Attrition Risks – Helps HR take proactive measures to retain talent.
-✅ Better Workforce Planning – By understanding job satisfaction, performance, and compensation trends, companies can optimize hiring and training programs.
-✅ Data-Driven Policy Decisions – Enables HR teams to tailor policies that enhance employee engagement and productivity.
+### How This Dashboard Helps HR Teams:
+- Early Identification of Attrition Risks – Helps HR take proactive measures to retain talent.
+-  Better Workforce Planning – By understanding job satisfaction, performance, and compensation trends, companies can optimize hiring and training programs.
+-  Data-Driven Policy Decisions – Enables HR teams to tailor policies that enhance employee engagement and productivity.
 
-💡 Tools & Skills Used:
-🔹 Power BI – Data visualization & interactive dashboards
+### Tools & Skills Used:
+- Power BI – Data visualization & interactive dashboards
 
- Final Thoughts:
-HR Analytics is revolutionizing workforce management by turning raw data into actionable insights. This project was an exciting opportunity to explore how data-driven decision-making can shape employee satisfaction, retention, and overall business success.
+ ## Final Thoughts:
+ HR Analytics is revolutionizing workforce management by turning raw data into actionable insights. This project was an exciting opportunity to explore how data-driven decision-making can shape employee satisfaction, retention, and overall business success.
 
 
