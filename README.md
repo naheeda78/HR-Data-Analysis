@@ -12,15 +12,15 @@ Employee management is a critical function of any organization, and HR analytics
 ## Key Insights from the Dashboard:
 
 ### Employee Demographics & Retention Metrics
-✔ Total Employees: 1,470
-✔ Active Employees: 1,233
-✔ Attrition Count: 237 (16% attrition rate)
-✔ Retention Rate: 84%
-✔ Average Employee Age: 37
+- Total Employees: 1,470
+- Active Employees: 1,233
+- Attrition Count: 237 (16% attrition rate)
+- Retention Rate: 84%
+- Average Employee Age: 37
 
-🔹 Attrition & Departmental Breakdown
-🔹 R&D department has the highest number of active employees, but also a significant attrition count.
-🔹 Sales and HR departments show a relatively high attrition trend, indicating potential job dissatisfaction.
+### Attrition & Departmental Breakdown
+### R&D department has the highest number of active employees, but also a significant attrition count.
+### Sales and HR departments show a relatively high attrition trend, indicating potential job dissatisfaction.
 
 🔹 Education & Job Satisfaction Trends
 ✔ Education Breakdown: The majority of employees hold a Bachelor’s Degree (473), followed by Master’s Degree (340) and Associate’s Degree (238).
