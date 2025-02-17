@@ -9,7 +9,7 @@ Employee management is a critical function of any organization, and HR analytics
 - Evaluate the impact of education levels on workforce composition
 - Improve HR policies based on data-backed trends
 
-📊 Key Insights from the Dashboard:
+## Key Insights from the Dashboard:
 
 🔹 Employee Demographics & Retention Metrics
 ✔ Total Employees: 1,470
