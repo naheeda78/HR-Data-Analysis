@@ -2,7 +2,9 @@
 
 🚀 Unveiling My HR Analytics Dashboard – A Data-Driven Approach to Workforce Optimization! 📊
 
-I’m thrilled to share my latest hands-on project—a comprehensive HR Analytics Dashboard designed using Power BI and SQL. This dashboard provides valuable insights into workforce dynamics, employee retention, attrition trends, and performance evaluation, helping HR teams make informed and strategic decisions.
+I’m thrilled to share my latest hands-on project—a comprehensive HR Analytics Dashboard designed using Power BI and SQL. 
+
+This dashboard provides valuable insights into workforce dynamics, employee retention, attrition trends, and performance evaluation, helping HR teams make informed and strategic decisions.
 
 🔎 Project Overview:
 Employee management is a critical function of any organization, and HR analytics plays a key role in optimizing workforce strategies. By leveraging data, companies can:
