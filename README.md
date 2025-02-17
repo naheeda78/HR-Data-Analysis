@@ -11,7 +11,7 @@ Employee management is a critical function of any organization, and HR analytics
 
 ## Key Insights from the Dashboard:
 
-🔹 Employee Demographics & Retention Metrics
+### Employee Demographics & Retention Metrics
 ✔ Total Employees: 1,470
 ✔ Active Employees: 1,233
 ✔ Attrition Count: 237 (16% attrition rate)
